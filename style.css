@@ -11,3 +11,7 @@ hr {
   height: 4px;
 }
 
+body {
+  background-color: #111111;
+  text-align: center;
+}
