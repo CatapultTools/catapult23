@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+h1, h2, h3, h4, h5, p, a, button {
+  font-family: Plus Jakarta Sans;
+  color: #FFFFFF;
+}
+
+hr {
+  color: #FFFFFF;
+  background-color: #FFFFFF;
+  height: 4px;
+}
+
